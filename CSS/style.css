@@ -13,7 +13,6 @@ body{
     font-size: 1.125rem;
     font-family: Inter;
     color: #1f2937;
-    /* line-height: 1; */
     
 }
 
@@ -145,7 +144,7 @@ background-color: #3730a3;
 }
 
 .main{
-    padding-top: 220px;
+    padding-top: clamp(6.25rem ,.9016853933rem + 26.7415730337vw ,13.7rem)
 }
 
 .main-page-info{
