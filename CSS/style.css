@@ -144,7 +144,7 @@ background-color: #3730a3;
 }
 
 .main{
-    padding-top: clamp(6.25rem ,.9016853933rem + 26.7415730337vw ,13.7rem)
+    padding-top: clamp(6.25rem ,.9016853933rem + 26.7415730337vw ,13.7rem);
 }
 
 .main-page-info{
